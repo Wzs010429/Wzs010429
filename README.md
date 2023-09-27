@@ -1,4 +1,12 @@
-- 👋 Hi, I’m Spark Wang
+<h3 align="center">👋 Hi! I'm Zhongsheng Wang</h3>
+
+<p align="center">
+  <a href="https://jkwzs.cn">Blog</a> •
+  <a href="https://www.linkedin.com/in/zhongsheng-wang-095804278/">LinkedIn</a>
+</p>
+
+
+
 - 👀 I’m interested in Machine Learning & Natural Language Processing
 - 🌱 I’m currently focusing on augmenting the performance of LLMS
 - 💞️ I’m looking to collaborate on logical reasoning, language models applications, etc.
