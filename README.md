@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Machine Learning & Natural Language Processing
 - 🌱 I’m currently focusing on augmenting the performance of LLMs
-- 💞️ I’m looking to collaborate on logical reasoning, language model applications, etc.
+- 💞️ I’m looking to collaborate on logical reasoning, LLM applications, LLM-Based AI Agent, etc.
 - 📫 How to reach me jkwzs0429@gmail.com
 
 <!---
