@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi! I'm Zhongsheng Wang</h3>
+<h3 align="center">👋 Hi! I'm Zhongsheng Wang (王钟声)</h3>
 
 <p align="center">
   <a href="https://jkwzs.cn">Blog</a> •
