@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wzs010429&layout=compact)](https://github.com/Wzs010429/github-readme-stats)
+
+
+![](https://stats.deeptrain.net/user/Wzs010429?theme=light)
