@@ -30,7 +30,8 @@ You can click the Preview link to take a look at your changes.
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Wzs010429" />
 </div>
 
-
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Wzs010429&theme=minimal" />
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Wzs010429" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzs010429&layout=compact&langs_count=8" />
+<span>  </span>
 </div>
