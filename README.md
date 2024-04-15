@@ -9,7 +9,7 @@
   <a href="https://wzs010429.github.io/">Homepage</a>
 </p>
 
-
+## About me
 
 - 👀 I’m interested in Machine Learning & Natural Language Processing
 - 🌱 I’m currently focusing on augmenting the performance of LLMs
@@ -21,8 +21,6 @@ Wzs01049/Wzs01049 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wzs010429&count_private=true)
 
 
 
