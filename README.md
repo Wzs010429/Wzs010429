@@ -15,11 +15,11 @@
 
 ## 🥱About me
 
-- 🙋 I'm Zhongsheng Wang(王钟声), and I'm currently a master's student majoring in Data Science at the University of Auckland.
+- 🙋 I'm Zhongsheng Wang(王钟声), and I'm preparing to start my PhD at the School of Computer Science, University of Auckland.
 - 👀 I’m interested in Machine Learning & Natural Language Processing
 - 🌱 I’m currently focusing on augmenting the performance of LLMs
 - 💞️ I’m looking to collaborate on logical reasoning, LLM applications, LLM-Based AI Agents, etc.
-- 📫 How to reach me jkwzs0429@gmail.com
+- 📫 How to reach me jkwzs0429@gmail.com/zwan516@aucklanduni.ac.nz
 
 <!---
 Wzs01049/Wzs01049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
